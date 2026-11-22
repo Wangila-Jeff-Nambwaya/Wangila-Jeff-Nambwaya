@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Wangila Jeff Namwaya 👋
 
-<!--
-**Wangila-Jeff-Nambwaya/Wangila-Jeff-Nambwaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fourth-year **BSc Data Science** undergraduate at **KCA University (School of Technology)** in Nairobi, Kenya. I build Python automation pipelines, quantitative backtesting engines, and SQL-backed applications.
 
-Here are some ideas to get you started:
+- 🔭 **Currently building:** Local Windows AI voice & OS automation assistant (`WANGILA AI`) and analytical SQL case studies.
+- 🛠️ **Core Stack:** `Python` (`scipy`, `faster-whisper`, `edge-tts`, `pygame-ce`) • `SQL` • `Java (Android)` • `Node.js (Express)` • `Microsoft Excel`
+- 📊 **Focus Areas:** Data Analysis, AI Model Evaluation, Quantitative Simulation & Software QA.
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) | Nairobi, Kenya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Featured Repositories
+1. **[eurusd-backtesting-engine](./eurusd-backtesting-engine)** — Python historical forex paper-trading and multi-strategy performance comparison system.
+2. **[wangila-desktop-voice-assistant](./wangila-desktop-voice-assistant)** — Local Windows AI assistant combining speech-to-text, neural TTS, and desktop control.
+3. **[sacco-sql-analytics-system](./sacco-sql-analytics-system)** — Relational database schema, analytical SQL queries, and system architecture for a SACCO mobile platform.
